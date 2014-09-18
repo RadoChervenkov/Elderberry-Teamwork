@@ -1,0 +1,16 @@
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLotttery.Data.dll.config
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLotttery.Data.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLotttery.Data.pdb
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\EntityFramework.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\EntityFramework.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\obj\Debug\ElderberryLotttery.Data.csprojResolveAssemblyReference.cache
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\obj\Debug\ElderberryLotttery.Data.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\obj\Debug\ElderberryLotttery.Data.pdb
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLottery.Models.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLottery.Models.pdb

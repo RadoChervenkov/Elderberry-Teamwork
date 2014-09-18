@@ -1,0 +1,14 @@
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\bin\Debug\ElderberryLottery.Models.dll.config
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\bin\Debug\ElderberryLottery.Models.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\bin\Debug\ElderberryLottery.Models.pdb
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.csprojResolveAssemblyReference.cache
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.pdb
