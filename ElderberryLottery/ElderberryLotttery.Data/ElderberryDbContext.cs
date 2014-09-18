@@ -26,6 +26,6 @@
 
        public IDbSet<GameCode> GameCodes { get; set; }
 
-       public IDbSet<ApplicationUser> Users { get; set; }
+      // public IDbSet<ApplicationUser> Users { get; set; }
     }
 }

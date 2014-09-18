@@ -30,3 +30,19 @@ C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\Elderber
 C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\obj\Debug\ElderberryLotttery.Data.csprojResolveAssemblyReference.cache
 C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\obj\Debug\ElderberryLotttery.Data.dll
 C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\obj\Debug\ElderberryLotttery.Data.pdb
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLotttery.Data.dll.config
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLotttery.Data.dll
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLotttery.Data.pdb
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLottery.Models.dll
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\EntityFramework.dll
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLottery.Models.pdb
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\EntityFramework.xml
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\obj\Debug\ElderberryLotttery.Data.csprojResolveAssemblyReference.cache
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\obj\Debug\ElderberryLotttery.Data.dll
+F:\TELERIK\Web Cloud\REAL PROJECT\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\obj\Debug\ElderberryLotttery.Data.pdb
