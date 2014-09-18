@@ -329,7 +329,8 @@ namespace ElderberryLottery.Services.Controllers
                 return BadRequest(ModelState);
             }
 
-            var user = new ApplicationUser() { UserName = model.Email, Email = model.Email };
+            var user = new ApplicationUser() { UserName = model.Email, Email = model.Email, Firstname = model.Firstname,
+                LastName = model.Lastname};
 
             IdentityResult result = await UserManager.CreateAsync(user, model.Password);
 

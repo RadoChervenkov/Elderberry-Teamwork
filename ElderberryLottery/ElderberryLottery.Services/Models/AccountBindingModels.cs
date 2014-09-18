@@ -48,6 +48,12 @@ namespace ElderberryLottery.Services.Models
         [Display(Name = "Confirm password")]
         [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
         public string ConfirmPassword { get; set; }
+
+        [Display(Name = "Firstname")]
+        public string Firstname { get; set; }
+
+        [Display(Name = "Lastname")]
+        public string Lastname { get; set; }
     }
 
     public class RegisterExternalBindingModel
