@@ -24,6 +24,8 @@
             return new ElderberryDbContext();
         }
 
-        IDbSet<GameCode> GameCodes { get; set; }
+       public IDbSet<GameCode> GameCodes { get; set; }
+
+       public IDbSet<ApplicationUser> Users { get; set; }
     }
 }
