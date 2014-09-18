@@ -14,3 +14,19 @@ E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLott
 E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\obj\Debug\ElderberryLotttery.Data.pdb
 E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLottery.Models.dll
 E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLottery.Models.pdb
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLotttery.Data.dll.config
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLotttery.Data.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLotttery.Data.pdb
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLottery.Models.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\EntityFramework.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\ElderberryLottery.Models.pdb
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\EntityFramework.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\obj\Debug\ElderberryLotttery.Data.csprojResolveAssemblyReference.cache
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\obj\Debug\ElderberryLotttery.Data.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLotttery.Data\obj\Debug\ElderberryLotttery.Data.pdb

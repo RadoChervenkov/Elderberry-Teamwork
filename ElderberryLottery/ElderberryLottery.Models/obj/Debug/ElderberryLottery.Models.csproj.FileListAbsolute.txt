@@ -12,3 +12,17 @@ E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLott
 E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.csprojResolveAssemblyReference.cache
 E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.dll
 E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.pdb
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\ElderberryLottery.Models.dll.config
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\ElderberryLottery.Models.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\ElderberryLottery.Models.pdb
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.csprojResolveAssemblyReference.cache
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.pdb
