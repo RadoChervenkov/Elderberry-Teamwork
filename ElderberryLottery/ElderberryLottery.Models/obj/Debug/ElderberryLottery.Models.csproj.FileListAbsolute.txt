@@ -26,3 +26,17 @@ C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\Elderber
 C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.csprojResolveAssemblyReference.cache
 C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.dll
 C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.pdb
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\ElderberryLottery.Models.dll.config
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\ElderberryLottery.Models.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\ElderberryLottery.Models.pdb
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.csprojResolveAssemblyReference.cache
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.pdb

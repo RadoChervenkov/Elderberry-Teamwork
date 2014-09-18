@@ -11,12 +11,15 @@ namespace ElderberryLotttery.Data.Migrations
         public Configuration()
         {
             this.AutomaticMigrationsEnabled = true;
-            this.AutomaticMigrationDataLossAllowed = false;
+            this.AutomaticMigrationDataLossAllowed = true;
         }
 
         protected override void Seed(ElderberryDbContext context)
         {
-            this.SeedGameNumbers(context);
+            if (context.GameCodes.Any() == false)
+            {
+                this.SeedGameNumbers(context);
+            }            
         }
 
         private void SeedGameNumbers(ElderberryDbContext context)

@@ -5,6 +5,7 @@ using System.Net.Http;
 using System.Web.Http;
 using Microsoft.Owin.Security.OAuth;
 using Newtonsoft.Json.Serialization;
+using System.Web.Http.Cors;
 
 namespace ElderberryLottery.Services
 {
@@ -17,6 +18,8 @@ namespace ElderberryLottery.Services
             config.SuppressDefaultHostAuthentication();
             config.Filters.Add(new HostAuthenticationFilter(OAuthDefaults.AuthenticationType));
 
+            config.EnableCors(new EnableCorsAttribute("*", "*", "*"));
+
             // Web API routes
             config.MapHttpAttributeRoutes();
 
@@ -26,8 +29,8 @@ namespace ElderberryLottery.Services
                 defaults: new { id = RouteParameter.Optional }
             );
 
-           // config.Formatters.JsonFormatter.SerializerSettings.PreserveReferencesHandling = Newtonsoft.Json.PreserveReferencesHandling.None;
-           // config.Formatters.Remove(config.Formatters.XmlFormatter);
+            config.Formatters.JsonFormatter.SerializerSettings.PreserveReferencesHandling = Newtonsoft.Json.PreserveReferencesHandling.None;
+            config.Formatters.Remove(config.Formatters.XmlFormatter);
         }
     }
 }
