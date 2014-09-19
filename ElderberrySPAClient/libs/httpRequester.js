@@ -66,14 +66,16 @@ define(['jquery', 'q'], function ($, Q) {
             return deferred.promise;
         };
 
-        var deleteJSON = function (url) {
+        var deleteJSON = function (url, data, headers) {
             var deferred = Q.defer();
 
             $.ajax({
                 url: url,
-                type: 'POST',
-                data: {_method: 'delete'},
-                timeout: 5000,
+                type: 'DELETE',
+                contentType: 'application/x-www-form-urlencoded',
+                headers: headers || {},
+                data: data || {},
+//                timeout: 5000,
                 success: function (success) {
                     deferred.resolve(success);
                 },

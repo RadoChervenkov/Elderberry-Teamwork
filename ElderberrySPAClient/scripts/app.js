@@ -26,8 +26,8 @@
 
     require(['jquery', 'sammy', 'handlebars', 'apiManager', 'controller', 'ui'], function ($, sammy, Handlebars, apiManager, controller, ui) {
 
-        var serverURL = 'http://elderberrylottery.apphb.com';
-//        var serverURL = 'http://localhost:32564';
+//        var serverURL = 'http://elderberrylottery.apphb.com';
+        var serverURL = 'http://localhost:32564';
         controller.setRequestsURL(serverURL);
         controller.setDOMEvents();
 
@@ -50,6 +50,10 @@
 
             this.get('#/view-registered-codes', function () {
                 ui.loadViewRegisteredCodesTemplate();
+            });
+
+            this.get('#/admin', function () {
+               ui.loadAdminPanel();
             });
         });
 

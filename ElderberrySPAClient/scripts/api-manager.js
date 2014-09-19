@@ -98,12 +98,77 @@ define(['httpRequester', 'q'], function (httpRequester, q) {
             return deferred.promise;
         }
 
+        function adminViewAllCodes(requestURL, authToken) {
+            var url, data, headers, deferred;
+
+            deferred = q.defer();
+
+            url = requestURL + '/api/admin/allcodes';
+            headers = {
+                'Authorization': authToken
+            };
+
+            httpRequester.getJSON(url, headers)
+                .then(function (result) {
+                    deferred.resolve(result);
+                }, function (error) {
+                    deferred.resolve(error);
+                })
+                .done();
+
+            return deferred.promise;
+        }
+
+        function adminViewAllUsers(requestURL, authToken) {
+            var url, data, headers, deferred;
+
+            deferred = q.defer();
+
+            url = requestURL + '/api/admin/allusers';
+            headers = {
+                'Authorization': authToken
+            };
+
+            httpRequester.getJSON(url, headers)
+                .then(function (result) {
+                    deferred.resolve(result);
+                }, function (error) {
+                    deferred.resolve(error);
+                })
+                .done();
+
+            return deferred.promise;
+        }
+
+        function deleteUser(requestURL, username, authToken) {
+            var url, data, headers;
+
+            url = requestURL + '/api/admin/deleteuser';
+            data = {
+                username: username
+            };
+            headers = {
+                'Authorization': authToken
+            };
+
+            httpRequester.deleteJSON(url, data, headers)
+                .then(function (result) {
+                    document.getElementById('info').innerHTML = result;
+                }, function (error) {
+                    document.getElementById('info').innerHTML = error.responseJSON.Message;
+                })
+                .done();
+        }
+
         return{
             login: loginHandler,
             register: registerHandler,
             logout: logoutUser,
             checkCode: checkCode,
-            checkRegisteredCodes: checkRegisteredCodes
+            checkRegisteredCodes: checkRegisteredCodes,
+            adminViewAllCodes: adminViewAllCodes,
+            adminViewAllUsers: adminViewAllUsers,
+            deleteUser: deleteUser
         };
     }());
 

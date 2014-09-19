@@ -44,7 +44,7 @@ namespace ElderberryLottery.Services.Controllers
 
             if (existingCode == null)
             {
-                return NotFound();
+                return Ok("Invalid code!");
             }
 
             var existingUser = this.data.Users.All().FirstOrDefault(user => user.Id == userId);

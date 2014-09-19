@@ -71,6 +71,63 @@ define(['jquery', 'underscore', 'apiManager'], function ($, _, apiManager) {
                     });
             });
 
+            $('#main-container').on('click', '#btn-administration', function () {
+                window.location = '#/admin';
+            });
+
+            $('#main-container').on('click', '#btn-admin-view-all-codes', function () {
+                var authToken, $tempContainer, source, template, html;
+
+                authToken = getAuthToken();
+                apiManager.adminViewAllCodes(requestsURL, authToken)
+                    .then(function (data) {
+                        $tempContainer = $('<ul>');
+                        source = $('#codes-template').html();
+                        template = Handlebars.compile(source);
+
+                        _.each(data, function (code) {
+                            html = template(code);
+                            $($tempContainer).append(html);
+                        });
+
+                        if ($tempContainer.children().length === 0) {
+                            $tempContainer.append('<li/>').html('No codes added!');
+                        }
+
+                        $('#codes-container').html($tempContainer.html());
+                    });
+            });
+
+            $('#main-container').on('click', '#btn-admin-view-all-users', function () {
+                var authToken, $tempContainer, source, template, html;
+
+                authToken = getAuthToken();
+                apiManager.adminViewAllUsers(requestsURL, authToken)
+                    .then(function (data) {
+                        $tempContainer = $('<ul>');
+                        source = $('#users-template').html();
+                        template = Handlebars.compile(source);
+
+                        _.each(data, function (code) {
+                            html = template(code);
+                            $($tempContainer).append(html);
+                        });
+
+                        $('#users-container').html($tempContainer.html());
+                    });
+            });
+
+            $('#main-container').on('click', '#btn-delete-user', function(){
+                var authToken, userToDelete;
+
+                userToDelete = $(this).parent().find('p > span').html();
+                authToken = getAuthToken();
+
+                apiManager.deleteUser(requestsURL, userToDelete, authToken);
+                //$('#info').html('User' + userToDelete + 'deleted!');
+                $(this).parent().remove();
+            });
+
             $('#main-container').on('click', '#btn-logout', function () {
                 var authToken;
 

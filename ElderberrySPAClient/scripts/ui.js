@@ -32,12 +32,17 @@ define(['jquery', 'controller'], function ($, controller) {
             $('#main-container').load('templates/view-registered-codes.html');
         }
 
+        function loadAdminPanel() {
+            $('#main-container').load('templates/admin.html');
+        }
+
         return {
             loadDefaultTemplate: loadDefaultTemplate,
             loadLoginTemplate: loadLoginTemplate,
             loadRegisterTemplate: loadRegisterTemplate,
             loadCheckCodeTemplate: loadCheckCodeTemplate,
-            loadViewRegisteredCodesTemplate: loadViewRegisteredCodesTemplate
+            loadViewRegisteredCodesTemplate: loadViewRegisteredCodesTemplate,
+            loadAdminPanel: loadAdminPanel
         };
     }());
 
