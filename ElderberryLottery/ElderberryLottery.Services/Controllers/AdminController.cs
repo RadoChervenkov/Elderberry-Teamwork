@@ -23,18 +23,24 @@ namespace ElderberryLottery.Services.Controllers
 
         // GET: Api/Admin/AddCode
         [HttpPost]
-        public IHttpActionResult AddCode(GameCode code)
+        public IHttpActionResult AddCode(AddCodeModel code)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
-            this.data.GameCodes.Add(code);
+
+            var codeExists = this.data.GameCodes.All().FirstOrDefault(c => c.Value == code.Value);
+
+            if (codeExists != null)
+            {
+                return BadRequest("Code already exists!");
+            }
+
+            this.data.GameCodes.Add(new GameCode { Value = code.Value, IsWinning = code.IsWinning });
             this.data.SaveChanges();
 
-            var resourceLink = Url.Link("DefaultApi", new { id = code.Id });
-
-            return this.Created(new Uri(resourceLink), code);
+            return Ok("Code successfully added!");
         }
 
         [HttpGet]

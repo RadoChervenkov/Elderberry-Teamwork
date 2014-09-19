@@ -55,6 +55,10 @@
             this.get('#/admin', function () {
                ui.loadAdminPanel();
             });
+
+            this.get('#/admin/add-code', function(){
+               ui.loadAddCodeTemplate();
+            });
         });
 
         $(function () {

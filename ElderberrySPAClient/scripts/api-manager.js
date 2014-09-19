@@ -160,6 +160,27 @@ define(['httpRequester', 'q'], function (httpRequester, q) {
                 .done();
         }
 
+        function addCode(requestURL, code, isWinning, authToken) {
+            var url, data, headers;
+
+            url = requestURL + '/api/admin/addcode';
+            data = {
+                value: code,
+                isWinning: isWinning
+            };
+            headers = {
+                'Authorization': authToken
+            };
+
+            httpRequester.postJSON(url, data, headers)
+                .then(function (result) {
+                    document.getElementById('info').innerHTML = result;
+                }, function (error) {
+                    document.getElementById('info').innerHTML = error.responseJSON.Message;
+                })
+                .done();
+        }
+
         return{
             login: loginHandler,
             register: registerHandler,
@@ -168,7 +189,8 @@ define(['httpRequester', 'q'], function (httpRequester, q) {
             checkRegisteredCodes: checkRegisteredCodes,
             adminViewAllCodes: adminViewAllCodes,
             adminViewAllUsers: adminViewAllUsers,
-            deleteUser: deleteUser
+            deleteUser: deleteUser,
+            addCode: addCode
         };
     }());
 

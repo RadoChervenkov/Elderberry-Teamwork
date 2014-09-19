@@ -36,13 +36,18 @@ define(['jquery', 'controller'], function ($, controller) {
             $('#main-container').load('templates/admin.html');
         }
 
+        function loadAddCodeTemplate() {
+            $('#main-container').load('templates/add-code.html');
+        }
+
         return {
             loadDefaultTemplate: loadDefaultTemplate,
             loadLoginTemplate: loadLoginTemplate,
             loadRegisterTemplate: loadRegisterTemplate,
             loadCheckCodeTemplate: loadCheckCodeTemplate,
             loadViewRegisteredCodesTemplate: loadViewRegisteredCodesTemplate,
-            loadAdminPanel: loadAdminPanel
+            loadAdminPanel: loadAdminPanel,
+            loadAddCodeTemplate: loadAddCodeTemplate
         };
     }());
 

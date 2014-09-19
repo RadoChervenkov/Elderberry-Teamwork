@@ -238,6 +238,7 @@
     </Compile>
     <Compile Include="Models\AccountBindingModels.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\AddCodeModel.cs" />
     <Compile Include="Models\DeleteUserModel.cs" />
     <Compile Include="Models\GameCodeModel.cs" />
     <Compile Include="Models\IdentityModels.cs" />

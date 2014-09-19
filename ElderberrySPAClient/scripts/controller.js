@@ -95,6 +95,8 @@ define(['jquery', 'underscore', 'apiManager'], function ($, _, apiManager) {
                         }
 
                         $('#codes-container').html($tempContainer.html());
+                    }, function(error){
+
                     });
             });
 
@@ -117,7 +119,7 @@ define(['jquery', 'underscore', 'apiManager'], function ($, _, apiManager) {
                     });
             });
 
-            $('#main-container').on('click', '#btn-delete-user', function(){
+            $('#main-container').on('click', '#btn-delete-user', function () {
                 var authToken, userToDelete;
 
                 userToDelete = $(this).parent().find('p > span').html();
@@ -135,6 +137,20 @@ define(['jquery', 'underscore', 'apiManager'], function ($, _, apiManager) {
                 //apiManager.logout(requestsURL, authToken);
                 clearSessionStorage();
                 resetPageElements();
+            });
+
+            $('#main-container').on('click', '#btn-admin-add-code', function () {
+                window.location = '#/admin/add-code';
+            });
+
+            $('#main-container').on('click', '#btn-request-add-code', function () {
+                var code, isWinning, authToken;
+
+                authToken = getAuthToken();
+                code = $('#tb-code').val();
+                isWinning = $('#tb-is-winning').val();
+
+                apiManager.addCode(requestsURL, code, isWinning, authToken);
             });
         }
 
