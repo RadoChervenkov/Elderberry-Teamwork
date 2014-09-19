@@ -1,8 +1,11 @@
-﻿using ElderberryLottery.Services.Models;
+﻿using ElderberryLottery.Models;
+using ElderberryLottery.Services.Models;
 using ElderberryLotttery.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
+using System.Net.Http;
 using System.Web;
 using System.Web.Http;
 
@@ -20,9 +23,18 @@ namespace ElderberryLottery.Services.Controllers
 
         // GET: Api/Admin/AddCode
         [HttpPost]
-        public IHttpActionResult AddCode()
+        public IHttpActionResult AddCode(GameCode code)
         {
-            return Ok();
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            this.data.GameCodes.Add(code);
+            this.data.SaveChanges();
+
+            var resourceLink = Url.Link("DefaultApi", new { id = code.Id });
+
+            return this.Created(new Uri(resourceLink), code);
         }
 
         [HttpGet]
