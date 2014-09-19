@@ -20,7 +20,6 @@
 
         public bool IsWinning { get; set; }
 
-
-       // public virtual ApplicationUser User { get; set; }
+        //public virtual ApplicationUser User { get; set; }
     }
 }

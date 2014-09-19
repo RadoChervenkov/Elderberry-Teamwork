@@ -44,12 +44,23 @@ namespace ElderberryLottery.Services.Controllers
 
             if (existingCode == null)
             {
-                return Ok("Invalid code!");
+                return BadRequest("Invalid code!");
+            }
+
+            if (this.data.Users
+                .All()
+                .Any(u => u.GameCodes                    
+                           .Any(c => c.Value == existingCode.Value)))
+            {
+                return BadRequest("This code is already used!");
             }
 
             var existingUser = this.data.Users.All().FirstOrDefault(user => user.Id == userId);
+            if (!existingUser.GameCodes.Contains(existingCode))
+            {
+                existingUser.GameCodes.Add(existingCode);
+            }
 
-            existingUser.GameCodes.Add(existingCode);
 
             this.data.SaveChanges();
 

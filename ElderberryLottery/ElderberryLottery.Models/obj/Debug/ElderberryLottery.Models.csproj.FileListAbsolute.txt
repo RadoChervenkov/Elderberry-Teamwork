@@ -68,3 +68,17 @@ C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\Elderber
 C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.csprojResolveAssemblyReference.cache
 C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.dll
 C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.pdb
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\ElderberryLottery.Models.dll.config
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\ElderberryLottery.Models.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\ElderberryLottery.Models.pdb
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.csprojResolveAssemblyReference.cache
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Models\obj\Debug\ElderberryLottery.Models.pdb
